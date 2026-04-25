@@ -16,7 +16,7 @@
 - 🛠️ Building projects to sharpen my skills in **React, Node.js, Golang, Nextjs and low-level systems**
 - 🧩 Passionate about writing clean, efficient code and tackling complex problems
 - 🌱 Always learning — currently diving deeper into **data structures, algorithms, and backend architecture**
-- 💬 Ask me about web technologies, or anything CS — I enjoy talking tech!
+
 
 ## 🌐 Socials
 
